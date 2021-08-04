@@ -1,0 +1,5 @@
+com\ethioclick\model\Owner.class
+com\ethioclick\model\Pet.class
+com\ethioclick\model\Vet.class
+com\ethioclick\model\Person.class
+com\ethioclick\model\PetType.class
